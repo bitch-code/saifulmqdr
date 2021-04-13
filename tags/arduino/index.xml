@@ -6,7 +6,16 @@
     <description>Recent content in arduino on Website of Saiful Miqdar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Apr 2021 01:44:33 +0000</lastBuildDate><atom:link href="https://saifulmqdr.ml/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 14:25:55 +0000</lastBuildDate><atom:link href="https://saifulmqdr.ml/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bahasa Pemrograman Arduino</title>
+      <link>https://saifulmqdr.ml/post/bahasa-pemrograman-arduino/</link>
+      <pubDate>Tue, 13 Apr 2021 14:25:55 +0000</pubDate>
+      
+      <guid>https://saifulmqdr.ml/post/bahasa-pemrograman-arduino/</guid>
+      <description>Bahasa Pemrograman Arduino pemrograman Arduino pada dasarnya menggunakan bahasa pemograman C.</description>
+    </item>
+    
     <item>
       <title>Install Software Atduino IDE</title>
       <link>https://saifulmqdr.ml/post/install-software-atduino-ide/</link>
